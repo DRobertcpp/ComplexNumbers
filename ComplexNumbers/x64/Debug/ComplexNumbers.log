@@ -1,0 +1,3 @@
+﻿  Complex.cpp
+C:\Users\Robert\source\repos\ComplexNumbers\ComplexNumbers\Complex.cpp(127,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ComplexNumbers.vcxproj -> C:\Users\Robert\source\repos\ComplexNumbers\x64\Debug\ComplexNumbers.exe
